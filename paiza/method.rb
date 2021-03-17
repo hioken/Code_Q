@@ -5,3 +5,7 @@ end
 def gets_c_array
   gets.chomp.split(' ')
 end
+
+def gets_map_line
+  gets.chomp.chars
+end
